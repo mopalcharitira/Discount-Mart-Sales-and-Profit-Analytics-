@@ -15,4 +15,5 @@ The Discount Mart Sales and Profit Analytics dashboard provides an in-depth look
 
 ## Technologies Used
 **Tableau:** For data visualization and dashboard creation.
-**Data Source:** CSV/Excel files containing sales data (please refer to the data directory for sample datasets).
+
+**Data Source:** CSV/Excel files containing sales data.
