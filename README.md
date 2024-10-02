@@ -6,9 +6,13 @@ The Discount Mart Sales and Profit Analytics dashboard provides an in-depth look
 
 ## Features
 **Dynamic Visualizations:** Interactive charts and graphs that allow users to explore data intuitively.
+
 **Sales and Profit Analysis:** Insights into overall sales performance and profit margins.
+
 **Filtering Options:** Easily filter data by date, category, and region.
+
 **Export Capabilities:** Ability to export visualizations for reports and presentations.
+
 ## Technologies Used
 **Tableau:** For data visualization and dashboard creation.
 **Data Source:** CSV/Excel files containing sales data (please refer to the data directory for sample datasets).
